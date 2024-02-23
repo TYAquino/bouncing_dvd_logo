@@ -1,1 +1,1 @@
-![bouncing dvd logo gif](https://github.com/TYAquino/bouncing_dvd_logo/assets/144949999/309fa0f4-1386-4517-8ea1-0a8b0212e763.gif)
+![bouncing dvd logo gif](https://github.com/TYAquino/bouncing_dvd_logo/assets/144949999/309fa0f4-1386-4517-8ea1-0a8b0212e763)
